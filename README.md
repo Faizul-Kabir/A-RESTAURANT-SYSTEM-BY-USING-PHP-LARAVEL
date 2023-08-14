@@ -7,8 +7,14 @@ that have ordered and also can remove a particular order. Moreover, there is als
 ## MAIN PAGE OF THE SYSTEM
 ![Screenshot (6)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/0cc99f7b-0aee-40ec-b955-bb9c50b71128)
 ![Screenshot (7)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/ff9bb809-b194-442d-80dc-9699b67d7c81)
-Here a person can see the menu and order a particular food by pressing "Place Order".
+Here a customer can see the menu and order a particular food by pressing "Place Order".
 ## PLACING AN ORDER PAGE
 ![Screenshot (9)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/f572e235-62d7-43b5-86f5-2da6f063ff44)
-The person fills up and chooses the fields according to his/her choice.
+The customer fills up and chooses the fields according to his/her choice.
+## LIST OF ORDERS MADE BY CUSTOMERS
+![Screenshot (11)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/b85ad5e7-6191-4f01-8bfa-7ab98b205de7)
+The person can go back to MAIN PAGE by selecting "Back to Main page"
+## SHOWING A PARTICULAR ORDER DETAILS
+![Screenshot (12)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/171f8198-38b5-4059-9943-3f446fd745d3)
+Here the person can Cancel an order by pressing "CANCEL ORDER" or go back to MAIN PAGE by pressing "Back to Main page"
 

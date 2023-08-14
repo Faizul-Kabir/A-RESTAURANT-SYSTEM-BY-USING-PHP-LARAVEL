@@ -6,5 +6,5 @@ that have ordered and also can remove a particular order. Moreover, there is als
 
 ## MAIN PAGE OF THE SYSTEM
 ![Screenshot (6)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/0cc99f7b-0aee-40ec-b955-bb9c50b71128)
-
-Here a person can see the menu and order a particular food.
+![Screenshot (7)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/ff9bb809-b194-442d-80dc-9699b67d7c81)
+Here a person can see the menu and order a particular food by pressing "Place Order".

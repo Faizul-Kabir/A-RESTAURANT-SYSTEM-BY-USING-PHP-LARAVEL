@@ -17,4 +17,7 @@ The person can go back to MAIN PAGE by selecting "Back to Main page"
 ## SHOWING A PARTICULAR ORDER DETAILS
 ![Screenshot (12)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/171f8198-38b5-4059-9943-3f446fd745d3)
 Here the person can Cancel an order by pressing "CANCEL ORDER" or go back to MAIN PAGE by pressing "Back to Main page"
-
+## DATABASE CONTAINING LIST OF ORDERED FOODS
+![Screenshot (13)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/6098906d-5556-48d7-9f50-1d98a3169f48)
+## DATABASE CONTAINING LIST OF ALL THE FOODS AVAILABLE IN THE MENU
+![Screenshot (14)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/2e40458e-576c-4ed4-ba8e-7d31dfc6293a)

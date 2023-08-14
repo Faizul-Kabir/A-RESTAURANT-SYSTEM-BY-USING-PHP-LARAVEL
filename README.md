@@ -2,7 +2,7 @@
 
 This is a management system of a restaurant named "HAPPY RESTAURANT" where a person can see the menu and order according to his/her likings. For choosing a particular food
 one has to place an order by filling up a form which comes after the person presses the "Place Order" button in the mainpage. People can also see order details of the orders
-that have ordered and also can remove a particular order. Moreover, there is also a login system feature here which can be activated according to the needs.
+that have been ordered and also can remove a particular order. Moreover, there is also a login system feature here which can be activated according to the needs.
 
 ## MAIN PAGE OF THE SYSTEM
 ![Screenshot (6)](https://github.com/Faizul-Kabir/A-RESTAURANT-SYSTEM-BY-USING-PHP-LARAVEL/assets/142076035/0cc99f7b-0aee-40ec-b955-bb9c50b71128)
